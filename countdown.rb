@@ -8,5 +8,5 @@ def countdown(input)
     input -= 1
   end 
   
-  return "HAPPY NEW YEAR"
+  return "HAPPY NEW YEAR!"
 end
